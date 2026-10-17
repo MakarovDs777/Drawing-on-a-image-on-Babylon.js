@@ -5,3 +5,5 @@
 [Drawing on a image on Babylon.js (Version 1 - Drawing brush chaos) | Babylon.js Playground](https://playground.babylonjs.com/#3NJOBO)
 
 [Drawing on a image on Babylon.js (Version 2 - Drawing brush chaos more images) | Babylon.js Playground](https://playground.babylonjs.com/#9AQYLX)
+
+[Drawing on a image on Babylon.js (Version 3 - Drawing brush pixel color chaos) | Babylon.js Playground](https://playground.babylonjs.com/#IKXQVV)

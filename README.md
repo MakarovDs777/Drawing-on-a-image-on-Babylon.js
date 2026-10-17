@@ -19,3 +19,7 @@
 Рисование случайными пикселями взятыми из картинки только анимированно.
 
 [Drawing on a image on Babylon.js (Version 4 - Drawing brush chaos from image aimated) | Babylon.js Playground](https://playground.babylonjs.com/#RIFEM5)
+
+При рисование получается эффект разбитого экрана.
+
+[Drawing on a image on Babylon.js (Version 5 - Drawing brush Glitch broken TV Makarov version) | Babylon.js Playground](https://playground.babylonjs.com/#5YABJ3)

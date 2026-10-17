@@ -15,3 +15,7 @@
 Рисование случайным хаосом случайно сгенерированных пикселей цветных.
 
 [Drawing on a image on Babylon.js (Version 3 - Drawing brush pixel color chaos) | Babylon.js Playground](https://playground.babylonjs.com/#IKXQVV)
+
+Рисование случайными пикселями взятыми из картинки только анимированно.
+
+[Drawing on a image on Babylon.js (Version 4 - Drawing brush chaos from image aimated) | Babylon.js Playground](https://playground.babylonjs.com/#RIFEM5)

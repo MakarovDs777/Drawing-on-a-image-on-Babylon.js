@@ -4,7 +4,7 @@
 
 [Drawing on a image on Babylon.js (Version 0 - Drawing on a RLE picture) | Babylon.js Playground](https://playground.babylonjs.com/#XYDXPH)
 
-Рисование случайными пикселями взятыми из картинками.
+Рисование случайными пикселями взятыми из картинки.
 
 [Drawing on a image on Babylon.js (Version 1 - Drawing brush chaos) | Babylon.js Playground](https://playground.babylonjs.com/#3NJOBO)
 

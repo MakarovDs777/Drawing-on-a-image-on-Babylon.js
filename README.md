@@ -23,3 +23,7 @@
 При рисование получается эффект разбитого экрана.
 
 [Drawing on a image on Babylon.js (Version 5 - Drawing brush Glitch broken TV Makarov version) | Babylon.js Playground](https://playground.babylonjs.com/#5YABJ3)
+
+Добавим кнопку скачивание картинки.
+
+[Drawing on a image on Babylon.js (Version 6 - Drawing brush Glitch broken TV Makarov version + Download image) | Babylon.js Playground](https://playground.babylonjs.com/#QQPKNV)

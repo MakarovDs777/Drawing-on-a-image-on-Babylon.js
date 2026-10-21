@@ -35,3 +35,7 @@
 Со сменой картинка глитча на новую картинку.
 
 [Drawing on a image on Babylon.js (Version 8 - With the glitch image change function) | Babylon.js Playground](https://playground.babylonjs.com/#BXPVKZ)
+
+Шестая версия только с возможностью записать видео глитча.
+
+[Drawing on a image on Babylon.js (Version 9 - Drawing brush Glitch broken TV Makarov version + Download video) | Babylon.js Playground](https://playground.babylonjs.com/#F3C2WD)

@@ -31,3 +31,7 @@
 Тоже что, и предыдущая только без анимации.
 
 [Drawing on a image on Babylon.js (Version 7 - Drawing brush Glitch broken drawning Makarov version + Download image) | Babylon.js Playground](https://playground.babylonjs.com/#TQU03H)
+
+Со сменой картинка глитча на новую картинку.
+
+[Drawing on a image on Babylon.js (Version 8 - With the glitch image change function) | Babylon.js Playground](https://playground.babylonjs.com/#BXPVKZ)

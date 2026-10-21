@@ -27,3 +27,7 @@
 Добавим кнопку скачивание картинки.
 
 [Drawing on a image on Babylon.js (Version 6 - Drawing brush Glitch broken TV Makarov version + Download image) | Babylon.js Playground](https://playground.babylonjs.com/#QQPKNV)
+
+Тоже что, и предыдущая только без анимации.
+
+[Drawing on a image on Babylon.js (Version 7 - Drawing brush Glitch broken drawning Makarov version + Download image) | Babylon.js Playground](https://playground.babylonjs.com/#TQU03H)
